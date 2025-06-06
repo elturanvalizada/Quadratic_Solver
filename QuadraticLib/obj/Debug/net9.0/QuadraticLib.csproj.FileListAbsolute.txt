@@ -1,0 +1,12 @@
+C:\Users\eltur\QuadraticSolver\QuadraticLib\bin\Debug\net9.0\QuadraticLib.deps.json
+C:\Users\eltur\QuadraticSolver\QuadraticLib\bin\Debug\net9.0\QuadraticLib.dll
+C:\Users\eltur\QuadraticSolver\QuadraticLib\bin\Debug\net9.0\QuadraticLib.pdb
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\QuadraticLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\QuadraticLib.AssemblyInfoInputs.cache
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\QuadraticLib.AssemblyInfo.cs
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\QuadraticLib.csproj.CoreCompileInputs.cache
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\QuadraticLib.sourcelink.json
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\QuadraticLib.dll
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\refint\QuadraticLib.dll
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\QuadraticLib.pdb
+C:\Users\eltur\QuadraticSolver\QuadraticLib\obj\Debug\net9.0\ref\QuadraticLib.dll
